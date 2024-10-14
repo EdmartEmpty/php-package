@@ -17,7 +17,9 @@
     "psr-4": {
       "Php\\Package\\": "src"
     }, "files": [
-    "src/Utils.php"
+    "src/Utils.php",
+    "src/Polidrom.php",
+    "src/Fill.php"
 ]
   },
   "autoload-dev": {
